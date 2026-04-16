@@ -39,6 +39,9 @@
   ],
   "author": "Parth Dogra",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/pdogra1299/dep-tracer-mcp.git"
