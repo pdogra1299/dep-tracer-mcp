@@ -1,0 +1,12 @@
+src/
+test/
+node_modules/
+*.log
+*.db
+*.db-shm
+*.db-wal
+.dep-tracer/
+tsconfig.json
+.gitignore
+.vscode/
+.idea/
